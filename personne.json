@@ -1,0 +1,20 @@
+[
+    {
+        "prenom": "pape",
+        "nom": "omar",
+        "adresse": "Dakar",
+        "telephone": "65"
+    },
+    {
+        "prenom": "Pape Omar",
+        "nom": "DIAGNE",
+        "adresse": "Dakar",
+        "telephone": "4852"
+    },
+    {
+        "prenom": "mamine",
+        "nom": "diop",
+        "adresse": "yoff",
+        "telephone": "14457812"
+    }
+]
